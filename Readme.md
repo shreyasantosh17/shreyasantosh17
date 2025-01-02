@@ -35,7 +35,7 @@
 - Mostly Using VS Code
 
 ### My OS 
-- Windown 11
+- Windown 12
 
 ### SUPPORT
 
