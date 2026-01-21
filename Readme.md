@@ -35,8 +35,4 @@
 - Mostly Using VS Code
 
 ### My OS 
-- Window 12
-
-### SUPPORT
-
-- OUR [wEbSiTE](http://Shreyasantosh17.github.io)
+- Window 11
