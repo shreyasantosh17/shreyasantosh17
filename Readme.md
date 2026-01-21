@@ -29,7 +29,7 @@
 
 ### About Me-
 
-- Student of Bachelor in technology(IT)
+- Student of Bachelors in technology(IT)
 
 ### My Editor
 - Mostly Using VS Code
