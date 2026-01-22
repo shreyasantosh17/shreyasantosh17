@@ -33,31 +33,12 @@ I'm a passionate **B.Tech IT student from India**, focused on building
 </tr>
 </table>
 
+## 🧠 Tech Stack & Skills
 
-
-## 🧠 Tech Stack & Skills  
-
-### 👨‍💻 Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,flask,mysql,sqlite,git,github,vscode,windows" />
 </p>
 
-### 🌐 Web Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,flask" />
-</p>
-
-### 🗄️ Database & Backend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### 🛠️ Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
-</p>
-
----
 
 ## 📊 GitHub Statistics & Analytics  
 
