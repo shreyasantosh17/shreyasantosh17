@@ -1,38 +1,73 @@
+# 👋 Hi, I'm Shreya Santosh  
 
+🎓 **B.Tech (IT) Student** | 💻 **Aspiring Software & ML Engineer**  
+📍 India  
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm SHREYA 
+I’m a passionate learner who enjoys building real-world projects, exploring new technologies, and continuously improving my problem-solving skills. I love working on ideas that combine **technology, creativity, and impact**.
 
-   [![Shreya](https://github-stats-alpha.vercel.app/api?username=Shreyasantosh17 "Shreyasantosh17")](https://github-stats-alpha.vercel.app/api?username=Shreyasantosh17 "Shreyasantosh17")
+---
 
+## 🚀 About Me  
 
+- 🎓 Pursuing **Bachelor of Technology in Information Technology**
+- 💡 Interested in **Web Development, Machine Learning, and Problem Solving**
+- 🛠️ Actively working on **projects, hackathons, and open-source**
+- 🌱 Currently learning **DSA, Java, React, and ML concepts**
+- 🤝 Open to **internships, collaborations, and learning opportunities**
 
+---
 
-<h4 align="center"><b>MY GITHUB STATS -❤️</b></h4>
+## 🧰 Tech Stack  
 
+### 👨‍💻 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+</p>
 
+### 🌐 Web Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,flask" />
+</p>
 
-![Shreya Git Stats](https://github-readme-stats.vercel.app/api?username=Shreyasantosh17&include_all_commits=true&count_private=true&theme=blue-green)
+### 📊 Machine Learning & Data  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
 
+### 🛠️ Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
+</p>
 
+---
 
-### Heres About Me -
+## 📈 GitHub Stats  
 
-- I’m learner
-- Ask me about anything, I will try to give my best to you.
-- Fact: I'm Noob
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyasantosh17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasantosh17&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
+---
 
+## 🧑‍💻 Development Environment  
 
-# MOST USED LANGUAGE
+- 💻 **Editor:** Visual Studio Code  
+- 🖥️ **Operating System:** Windows 11  
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasantosh17&theme=midnight-purple)
+---
 
-### About Me-
+## 🌐 Connect With Me  
 
-- Student of Bachelors in technology(IT)
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-### My Editor
-- Mostly Using VS Code
+---
 
-### My OS 
-- Window 11
+⭐ *“Learning never stops — every project is a step forward.”*
