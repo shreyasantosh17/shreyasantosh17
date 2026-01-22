@@ -89,10 +89,10 @@ I'm a passionate **B.Tech IT student from India**, focused on building
 ## 🌐 Connect With Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/shreyasantosh17/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOURMAIL@gmail.com">
+  <a href="mailto:shreyasantosh1234@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
