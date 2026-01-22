@@ -22,7 +22,7 @@ I enjoy working with **Java & Python**, designing logical systems, and creating 
 - 🤝 Open to **internships & collaborative projects**
 
 ---
-<img src="assets/coding.svg" width="300"/>
+<img src="[assets/coding.svg](https://github.com/shreyasantosh17/shreyasantosh17/blob/main/undraw_focused-dev_gqoa.png?raw=true)" width="300"/>
 
 
 ## 🧠 Tech Stack & Skills  
