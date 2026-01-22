@@ -12,17 +12,28 @@
 
 ## 👩‍💻 About Me  
 
-I'm a **passionate IT undergraduate from India**, focused on building **clean, scalable, and real-world software solutions**.  
-I enjoy working with **Java & Python**, designing logical systems, and creating meaningful projects through continuous learning.
+<table>
+<tr>
+<td width="60%">
 
-- 🎓 B.Tech in Information Technology  
-- 💡 Strong foundation in **Java, Python, C, HTML, CSS**  
-- 🌱 Currently learning **Flask, SQL & DSA**  
-- 🛠️ Interested in **backend development & problem solving**  
-- 🤝 Open to **internships & collaborative projects**
+I'm a passionate **B.Tech IT student from India**, focused on building  
+**robust and scalable applications**.
 
----
-<img src="assets/undraw_focused-dev_gqoa.png" width="300"/>
+- 🌱 Learning **Java, Python, Flask & SQL**
+- 💻 Interested in backend & problem solving
+- 🚀 Working on real-world projects
+- ☕ Fun fact: Code + coffee = ❤️
+
+</td>
+<td width="40%" align="center">
+
+<img src="undraw_focused-dev_gqoa.png" width="280"/>
+
+</td>
+</tr>
+</table>
+
+
 
 ## 🧠 Tech Stack & Skills  
 
